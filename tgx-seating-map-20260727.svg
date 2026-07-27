@@ -5,27 +5,27 @@
     <text x="432" y="101" fill="#fff" font-size="21">Match the section or table shown on your ticket</text>
     <path d="M432 215 L382 155 H412 V125 H452 V155 H482 Z" fill="#DCFC1F"/>
     <text x="432" y="260" fill="#DCFC1F" font-size="36" font-weight="900">ENTRANCE</text>
-    <text x="432" y="315" fill="#fff" font-size="32" font-weight="900">HOSPITALITY TABLES</text>
+    <text x="432" y="565" fill="#fff" font-size="32" font-weight="900">HOSPITALITY TABLES</text>
     <g fill="none" stroke="#DCFC1F" stroke-width="4">
-      <circle cx="92" cy="385" r="48"/><circle cx="228" cy="385" r="48"/><circle cx="364" cy="385" r="48"/><circle cx="500" cy="385" r="48"/><circle cx="636" cy="385" r="48"/><circle cx="772" cy="385" r="48"/>
-      <circle cx="92" cy="500" r="48"/><circle cx="228" cy="500" r="48"/><circle cx="364" cy="500" r="48"/><circle cx="500" cy="500" r="48"/><circle cx="636" cy="500" r="48"/><circle cx="772" cy="500" r="48"/>
-      <circle cx="92" cy="615" r="48"/><circle cx="228" cy="615" r="48"/><circle cx="364" cy="615" r="48"/><circle cx="500" cy="615" r="48"/><circle cx="636" cy="615" r="48"/><circle cx="772" cy="615" r="48"/>
-      <circle cx="92" cy="730" r="48"/><circle cx="228" cy="730" r="48"/><circle cx="364" cy="730" r="48"/><circle cx="500" cy="730" r="48"/><circle cx="636" cy="730" r="48"/><circle cx="772" cy="730" r="48"/>
-      <circle cx="92" cy="845" r="48"/><circle cx="228" cy="845" r="48"/><circle cx="364" cy="845" r="48"/><circle cx="500" cy="845" r="48"/><circle cx="636" cy="845" r="48"/><circle cx="772" cy="845" r="48"/>
+      <circle cx="92" cy="630" r="48"/><circle cx="228" cy="630" r="48"/><circle cx="364" cy="630" r="48"/><circle cx="500" cy="630" r="48"/><circle cx="636" cy="630" r="48"/><circle cx="772" cy="630" r="48"/>
+      <circle cx="92" cy="740" r="48"/><circle cx="228" cy="740" r="48"/><circle cx="364" cy="740" r="48"/><circle cx="500" cy="740" r="48"/><circle cx="636" cy="740" r="48"/><circle cx="772" cy="740" r="48"/>
+      <circle cx="92" cy="850" r="48"/><circle cx="228" cy="850" r="48"/><circle cx="364" cy="850" r="48"/><circle cx="500" cy="850" r="48"/><circle cx="636" cy="850" r="48"/><circle cx="772" cy="850" r="48"/>
+      <circle cx="92" cy="960" r="48"/><circle cx="228" cy="960" r="48"/><circle cx="364" cy="960" r="48"/><circle cx="500" cy="960" r="48"/><circle cx="636" cy="960" r="48"/><circle cx="772" cy="960" r="48"/>
+      <circle cx="92" cy="1070" r="48"/><circle cx="228" cy="1070" r="48"/><circle cx="364" cy="1070" r="48"/><circle cx="500" cy="1070" r="48"/><circle cx="636" cy="1070" r="48"/><circle cx="772" cy="1070" r="48"/>
     </g>
     <g fill="#fff" font-size="23" font-weight="900">
-      <text x="92" y="393">T1</text><text x="228" y="393">T2</text><text x="364" y="393">T3</text><text x="500" y="393">T4</text><text x="636" y="393">T5</text><text x="772" y="393">T6</text>
-      <text x="92" y="508">T7</text><text x="228" y="508">T8</text><text x="364" y="508">T9</text><text x="500" y="508">T10</text><text x="636" y="508">T11</text><text x="772" y="508">T12</text>
-      <text x="92" y="623">T13</text><text x="228" y="623">T14</text><text x="364" y="623">T15</text><text x="500" y="623">T16</text><text x="636" y="623">T17</text><text x="772" y="623">T18</text>
-      <text x="92" y="738">T19</text><text x="228" y="738">T20</text><text x="364" y="738">T21</text><text x="500" y="738">T22</text><text x="636" y="738">T23</text><text x="772" y="738">T24</text>
-      <text x="92" y="853">T25</text><text x="228" y="853">T26</text><text x="364" y="853">T27</text><text x="500" y="853">T28</text><text x="636" y="853">T29</text><text x="772" y="853">T30</text>
+      <text x="92" y="638">T1</text><text x="228" y="638">T2</text><text x="364" y="638">T3</text><text x="500" y="638">T4</text><text x="636" y="638">T5</text><text x="772" y="638">T6</text>
+      <text x="92" y="748">T7</text><text x="228" y="748">T8</text><text x="364" y="748">T9</text><text x="500" y="748">T10</text><text x="636" y="748">T11</text><text x="772" y="748">T12</text>
+      <text x="92" y="858">T13</text><text x="228" y="858">T14</text><text x="364" y="858">T15</text><text x="500" y="858">T16</text><text x="636" y="858">T17</text><text x="772" y="858">T18</text>
+      <text x="92" y="968">T19</text><text x="228" y="968">T20</text><text x="364" y="968">T21</text><text x="500" y="968">T22</text><text x="636" y="968">T23</text><text x="772" y="968">T24</text>
+      <text x="92" y="1078">T25</text><text x="228" y="1078">T26</text><text x="364" y="1078">T27</text><text x="500" y="1078">T28</text><text x="636" y="1078">T29</text><text x="772" y="1078">T30</text>
     </g>
-    <text x="432" y="965" fill="#fff" font-size="38" font-weight="900">SS SEATING</text>
+    <text x="432" y="345" fill="#fff" font-size="38" font-weight="900">SS SEATING — BACK</text>
     <g fill="none" stroke="#DCFC1F" stroke-width="5">
-      <rect x="43" y="1000" width="102" height="115"/><rect x="156" y="1000" width="102" height="115"/><rect x="269" y="1000" width="102" height="115"/><rect x="382" y="1000" width="102" height="115"/><rect x="495" y="1000" width="102" height="115"/><rect x="608" y="1000" width="102" height="115"/><rect x="721" y="1000" width="102" height="115"/>
+      <rect x="43" y="375" width="102" height="115"/><rect x="156" y="375" width="102" height="115"/><rect x="269" y="375" width="102" height="115"/><rect x="382" y="375" width="102" height="115"/><rect x="495" y="375" width="102" height="115"/><rect x="608" y="375" width="102" height="115"/><rect x="721" y="375" width="102" height="115"/>
     </g>
     <g fill="#fff" font-size="34" font-weight="900">
-      <text x="94" y="1070">RA</text><text x="207" y="1070">RB</text><text x="320" y="1070">RC</text><text x="433" y="1070">RD</text><text x="546" y="1070">RE</text><text x="659" y="1070">RF</text><text x="772" y="1070">RG</text>
+      <text x="94" y="445">RA</text><text x="207" y="445">RB</text><text x="320" y="445">RC</text><text x="433" y="445">RD</text><text x="546" y="445">RE</text><text x="659" y="445">RF</text><text x="772" y="445">RG</text>
     </g>
     <rect x="55" y="1190" width="754" height="220" rx="8" fill="none" stroke="#DCFC1F" stroke-width="7"/>
     <text x="432" y="1320" fill="#DCFC1F" font-size="68" font-weight="900">TGX STAGE</text>
